@@ -1,26 +1,26 @@
 [
     {
-        "merged": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_heap_dump_toast.xml",
-        "source": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\layout\\leak_canary_heap_dump_toast.xml"
+        "merged": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_row.xml",
+        "source": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\layout\\leak_canary_ref_row.xml"
     },
     {
-        "merged": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_row.xml",
-        "source": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\layout\\leak_canary_ref_row.xml"
+        "merged": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_heap_dump_toast.xml",
+        "source": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\layout\\leak_canary_heap_dump_toast.xml"
     },
     {
-        "merged": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_display_leak.xml",
-        "source": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\layout\\leak_canary_display_leak.xml"
+        "merged": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
+        "source": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\src\\main\\res\\layout\\main_activity.xml"
     },
     {
-        "merged": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
-        "source": "F:\\svn\\FLACSound\\leakcanary-sample\\src\\main\\res\\layout\\main_activity.xml"
+        "merged": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_top_row.xml",
+        "source": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\layout\\leak_canary_ref_top_row.xml"
     },
     {
-        "merged": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_top_row.xml",
-        "source": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\layout\\leak_canary_ref_top_row.xml"
+        "merged": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_leak_row.xml",
+        "source": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\layout\\leak_canary_leak_row.xml"
     },
     {
-        "merged": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_leak_row.xml",
-        "source": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\layout\\leak_canary_leak_row.xml"
+        "merged": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_display_leak.xml",
+        "source": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\layout\\leak_canary_display_leak.xml"
     }
 ]

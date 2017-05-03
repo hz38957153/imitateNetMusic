@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 105
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 2,
@@ -31,7 +31,7 @@
                     "endOffset": 248
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 2,
@@ -51,7 +51,7 @@
                     "endOffset": 325
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -70,7 +70,7 @@
                     "endOffset": 399
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -89,7 +89,7 @@
                     "endOffset": 510
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -108,7 +108,7 @@
                     "endOffset": 594
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -127,7 +127,7 @@
                     "endOffset": 648
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -146,7 +146,7 @@
                     "endOffset": 710
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -165,7 +165,7 @@
                     "endOffset": 816
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -184,7 +184,7 @@
                     "endOffset": 892
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 2,
@@ -203,7 +203,7 @@
                     "endOffset": 959
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -222,7 +222,7 @@
                     "endOffset": 1084
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -241,7 +241,7 @@
                     "endOffset": 1166
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -260,7 +260,7 @@
                     "endOffset": 1234
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -279,7 +279,7 @@
                     "endOffset": 1310
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -298,7 +298,7 @@
                     "endOffset": 1378
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -317,7 +317,7 @@
                     "endOffset": 1462
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -336,7 +336,7 @@
                     "endOffset": 1612
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -355,7 +355,7 @@
                     "endOffset": 1724
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -374,7 +374,7 @@
                     "endOffset": 1825
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -393,7 +393,7 @@
                     "endOffset": 1897
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -412,7 +412,7 @@
                     "endOffset": 1959
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -431,7 +431,7 @@
                     "endOffset": 2022
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -450,7 +450,7 @@
                     "endOffset": 2115
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -469,7 +469,7 @@
                     "endOffset": 2211
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -488,7 +488,7 @@
                     "endOffset": 2276
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 2,
@@ -508,7 +508,7 @@
                     "endOffset": 2357
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -529,7 +529,7 @@
                     "endOffset": 2742
                 },
                 "from": {
-                    "file": "F:\\svn\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.6-SNAPSHOT\\res\\values\\values.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,

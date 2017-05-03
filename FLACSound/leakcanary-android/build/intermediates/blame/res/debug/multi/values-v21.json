@@ -1,5 +1,31 @@
 [
     {
+        "outputFile": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 10,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-android\\src\\main\\res\\values-v21\\leak_canary_themes.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 671,
+                        "endLine": 18,
+                        "endColumn": 10,
+                        "endOffset": 756
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "F:\\svn\\FLACSound\\leakcanary-android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
         "map": [
             {

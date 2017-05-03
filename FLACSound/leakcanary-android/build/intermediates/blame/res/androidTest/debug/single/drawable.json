@@ -2,5 +2,9 @@
     {
         "merged": "F:\\svn\\FLACSound\\leakcanary-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\leak_canary_toast_background.xml",
         "source": "F:\\svn\\FLACSound\\leakcanary-android\\build\\intermediates\\bundles\\debug\\res\\drawable\\leak_canary_toast_background.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\leak_canary_toast_background.xml",
+        "source": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-android\\build\\intermediates\\bundles\\debug\\res\\drawable\\leak_canary_toast_background.xml"
     }
 ]

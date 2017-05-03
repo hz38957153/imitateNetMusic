@@ -2,5 +2,9 @@
     {
         "merged": "F:\\svn\\FLACSound\\leakcanary-android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v11\\leak_canary_notification.png",
         "source": "F:\\svn\\FLACSound\\leakcanary-android\\src\\main\\res\\drawable-xhdpi-v11\\leak_canary_notification.png"
+    },
+    {
+        "merged": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v11\\leak_canary_notification.png",
+        "source": "F:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-android\\src\\main\\res\\drawable-xhdpi-v11\\leak_canary_notification.png"
     }
 ]

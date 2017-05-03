@@ -11,6 +11,6 @@ public final class BuildConfig {
   public static final int VERSION_CODE = -1;
   public static final String VERSION_NAME = "";
   // Fields from default config.
-  public static final String GIT_SHA = "";
+  public static final String GIT_SHA = "0936720";
   public static final String LIBRARY_VERSION = "1.6-SNAPSHOT";
 }

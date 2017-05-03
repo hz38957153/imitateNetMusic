@@ -1,0 +1,7 @@
+#Wed May 03 16:38:26 CST 2017
+base.0=F\:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9476dbb601e05d409188c66acb18f38d375b6a26
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_91d23f24bf8fe76f21b576b03376331a18f922e8\\classes.dex
+base.1=F\:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_91d23f24bf8fe76f21b576b03376331a18f922e8
+file.0=F\:\\GitHub\\imitateNetMusic\\FLACSound\\leakcanary-sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9476dbb601e05d409188c66acb18f38d375b6a26\\classes.dex
