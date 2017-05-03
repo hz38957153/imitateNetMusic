@@ -39,7 +39,6 @@
             android:layout_alignParentBottom="true"
             android:layout_alignParentEnd="true"
             android:src="@mipmap/search"
-            style="@style/textColorWhite"
             android:padding="12dp"
             android:id="@+id/Btnrigth" />
 
@@ -48,7 +47,6 @@
             android:layout_height="match_parent"
             android:src="@mipmap/menu"
             android:id="@+id/Btnleft"
-            style="@style/textColorWhite"
             android:padding="12dp"
             android:layout_alignParentTop="true"
             android:layout_alignParentStart="true" />
@@ -64,16 +62,14 @@
                 android:id="@+id/RBone"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:button="@null"
                 android:checked="true"
-                style="@style/textColorWhite"
+                style="@style/RadioButtonStyleNull"
                 android:background="@drawable/home_viewpager_muisc"/>
             <RadioButton
                 android:id="@+id/RBtwo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:button="@null"
-                style="@style/textColorWhite"
+                style="@style/RadioButtonStyleNull"
                 android:background="@drawable/home_viewpager_netmuisc"
                 android:layout_marginRight="20dp"
                 android:layout_marginLeft="20dp"/>
@@ -81,8 +77,7 @@
                 android:id="@+id/RBthree"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:button="@null"
-                style="@style/textColorWhite"
+                style="@style/RadioButtonStyleNull"
                 android:background="@drawable/home_viewpager_group"
                 />
         </RadioGroup>

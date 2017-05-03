@@ -17,9 +17,14 @@
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
     
-    <style name="textColorWhite">
-        <item name="android:textSize">16sp</item>
-        <item name="android:textColor">@color/color_item_normal</item>
+    <style name="RadioButtonStyleNullText">
+        <item name="android:gravity">center</item>
+        <item name="android:button">@null</item>
+    </style>
+
+    <style name="RadioButtonStyleNull">
+        <item name="android:gravity">center</item>
+        <item name="android:button">@null</item>
     </style>
 
 </resources>

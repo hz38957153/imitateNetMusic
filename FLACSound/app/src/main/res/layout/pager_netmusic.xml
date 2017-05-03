@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:weightSum="4">
+        <RadioButton
+            android:id="@+id/rdRecommend"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:text="个性推荐"
+            style="@style/RadioButtonStyleNullText"
+            />
+        <RadioButton
+            android:id="@+id/rdSongSheet"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:text="歌单"
+            style="@style/RadioButtonStyleNullText"
+            />
+        <RadioButton
+            android:id="@+id/rdRadioStation"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:text="主播电台"
+            style="@style/RadioButtonStyleNullText"
+            />
+        <RadioButton
+            android:id="@+id/rdTOP"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:text="排行榜"
+            style="@style/RadioButtonStyleNullText"
+            />
+    </RadioGroup>
+
+    </RelativeLayout>
+
+
+
+</LinearLayout>

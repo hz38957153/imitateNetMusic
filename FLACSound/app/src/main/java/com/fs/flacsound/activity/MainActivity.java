@@ -26,17 +26,17 @@ import java.util.List;
  * Created by KuNn on 2016/12/2.
  */
 
-public class MainActivity extends Activity implements View.OnClickListener{
+public class MainActivity extends Activity implements View.OnClickListener {
 
     private Context mContext;
     private View main;
     private Intent mIntent;
     private RelativeLayout leftMenu;
     private ViewPager pager;
-    private LinearLayout pager_one,pager_two,pager_three;
+    private LinearLayout pager_music, pager_netmusic, pager_group;
     private List<LinearLayout> pagers;
-    private RadioButton rdmusic,rdnetmusic,rdgroup;
-    private ImageView menu,search;
+    private RadioButton rdmusic, rdnetmusic, rdgroup;
+    private ImageView menu, search;
     private List<RadioButton> radios;
 
     private DrawerLayout drawerLayout;
@@ -49,18 +49,18 @@ public class MainActivity extends Activity implements View.OnClickListener{
         main.setOnClickListener(this);
         setContentView(main);
         mContext = this;
-        pager= (ViewPager) findViewById(R.id.pager);
-        rdmusic = (RadioButton)findViewById(R.id.RBone);
+        pager = (ViewPager) findViewById(R.id.pager);
+        rdmusic = (RadioButton) findViewById(R.id.RBone);
         rdnetmusic = (RadioButton) findViewById(R.id.RBtwo);
         rdgroup = (RadioButton) findViewById(R.id.RBthree);
         drawerLayout = (DrawerLayout) findViewById(R.id.drawerLayout);
-        menu= (ImageView) findViewById(R.id.Btnleft);
+        menu = (ImageView) findViewById(R.id.Btnleft);
         leftMenu = (RelativeLayout) findViewById(R.id.leftMenu);
-        search= (ImageView) findViewById(R.id.Btnrigth);
+        search = (ImageView) findViewById(R.id.Btnrigth);
         search.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mIntent = new Intent(mContext,SearchActivity.class);
+                mIntent = new Intent(mContext, SearchActivity.class);
                 startActivity(mIntent);
             }
         });
@@ -68,7 +68,8 @@ public class MainActivity extends Activity implements View.OnClickListener{
         initPager();
         setPagerCurrentItem();
     }
-    private void initDrawerLayout(){
+
+    private void initDrawerLayout() {
         setLeftMatrix();
         menu.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -76,19 +77,18 @@ public class MainActivity extends Activity implements View.OnClickListener{
                 drawerLayout.openDrawer(Gravity.LEFT);
             }
         });
-
     }
 
-    private void initPager(){
-        LayoutInflater inflater =getLayoutInflater();
-        pager_one = (LinearLayout) inflater.inflate(R.layout.pager_one,null);
-        pager_two = (LinearLayout) inflater.inflate(R.layout.pager_two,null);
-        pager_three = (LinearLayout) inflater.inflate(R.layout.pager_three,null);
+    private void initPager() {
+        LayoutInflater inflater = getLayoutInflater();
+        pager_music = (LinearLayout) inflater.inflate(R.layout.pager_music, null);
+        pager_netmusic = (LinearLayout) inflater.inflate(R.layout.pager_netmusic, null);
+        pager_group = (LinearLayout) inflater.inflate(R.layout.pager_group, null);
         pagers = new ArrayList<LinearLayout>();
         radios = new ArrayList<RadioButton>();
-        pagers.add(pager_one);
-        pagers.add(pager_two);
-        pagers.add(pager_three);
+        pagers.add(pager_music);
+        pagers.add(pager_netmusic);
+        pagers.add(pager_group);
         radios.add(rdmusic);
         radios.add(rdnetmusic);
         radios.add(rdgroup);
@@ -98,17 +98,22 @@ public class MainActivity extends Activity implements View.OnClickListener{
         pager.setAdapter(adapters);
     }
 
-    private void setPagerCurrentItem(){
+    private void setPagerCurrentItem() {
         rdmusic.setOnClickListener(new radiosOnClick(0));
         rdnetmusic.setOnClickListener(new radiosOnClick(1));
         rdgroup.setOnClickListener(new radiosOnClick(2));
     }
 
-    private class radiosOnClick implements View.OnClickListener{
+    /**
+     *
+     */
+    private class radiosOnClick implements View.OnClickListener {
         private int position;
+
         public radiosOnClick(int position) {
-            this.position=position;
+            this.position = position;
         }
+
         @Override
         public void onClick(View v) {
             pager.setCurrentItem(position);
@@ -126,16 +131,11 @@ public class MainActivity extends Activity implements View.OnClickListener{
         drawerLayout.setTag("false");
     }
 
-
-
-
-
-
     @Override
     public void onClick(View v) {
-        switch (v.getId()){
+        switch (v.getId()) {
             case R.id.Btnrigth:
-                mIntent = new Intent(mContext,SearchActivity.class);
+                mIntent = new Intent(mContext, SearchActivity.class);
                 startActivity(mIntent);
                 break;
             default:
