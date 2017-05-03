@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\svn\\FLACSound\\leakcanary-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\leak_canary_icon.png",
+        "source": "F:\\svn\\FLACSound\\leakcanary-android\\src\\main\\res\\drawable-hdpi\\leak_canary_icon.png"
+    },
+    {
+        "merged": "F:\\svn\\FLACSound\\leakcanary-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\leak_canary_notification.png",
+        "source": "F:\\svn\\FLACSound\\leakcanary-android\\src\\main\\res\\drawable-hdpi\\leak_canary_notification.png"
+    }
+]
