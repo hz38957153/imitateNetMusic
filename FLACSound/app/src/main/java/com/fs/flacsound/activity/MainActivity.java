@@ -16,6 +16,7 @@ import android.widget.RelativeLayout;
 
 import com.fs.flacsound.Listener.ViewPagerListener;
 import com.fs.flacsound.R;
+import com.fs.flacsound.adapter.NetMusicPagerAdapters;
 import com.fs.flacsound.adapter.PagerAdapters;
 import com.fs.flacsound.utils.ScreenUtils;
 
@@ -33,11 +34,14 @@ public class MainActivity extends Activity implements View.OnClickListener {
     private Intent mIntent;
     private RelativeLayout leftMenu;
     private ViewPager pager;
-    private LinearLayout pager_music, pager_netmusic, pager_group;
+    private ViewPager netMusicPager;
+    private LinearLayout pager_music, pager_netmusic, pager_group,netnusic_pager_radiostation,netnusic_pager_recommend,netnusic_pager_songsheeet,netnusic_pager_top;
     private List<LinearLayout> pagers;
-    private RadioButton rdmusic, rdnetmusic, rdgroup;
+    private List<LinearLayout> netMusicPageres;
+    private RadioButton rdmusic, rdnetmusic, rdgroup,rdRecommend,rdRadioStation,rdSongSheet,rdTop;
     private ImageView menu, search;
     private List<RadioButton> radios;
+    private List<RadioButton> netMusicRadios;
 
     private DrawerLayout drawerLayout;
 
@@ -83,6 +87,11 @@ public class MainActivity extends Activity implements View.OnClickListener {
         LayoutInflater inflater = getLayoutInflater();
         pager_music = (LinearLayout) inflater.inflate(R.layout.pager_music, null);
         pager_netmusic = (LinearLayout) inflater.inflate(R.layout.pager_netmusic, null);
+        netMusicPager = (ViewPager) pager_netmusic.findViewById(R.id.netmusic_pager);
+        rdRecommend = (RadioButton) pager_netmusic.findViewById(R.id.rdRecommend);
+        rdSongSheet = (RadioButton) pager_netmusic.findViewById(R.id.rdSongSheet);
+        rdRadioStation = (RadioButton) pager_netmusic.findViewById(R.id.rdRadioStation);
+        rdTop = (RadioButton) pager_netmusic.findViewById(R.id.rdTOP);
         pager_group = (LinearLayout) inflater.inflate(R.layout.pager_group, null);
         pagers = new ArrayList<LinearLayout>();
         radios = new ArrayList<RadioButton>();
@@ -96,6 +105,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
         pager.setOnPageChangeListener(new ViewPagerListener(radios));
         PagerAdapters adapters = new PagerAdapters(pagers);
         pager.setAdapter(adapters);
+
+        initNetMusicPager();
     }
 
     private void setPagerCurrentItem() {
@@ -118,6 +129,32 @@ public class MainActivity extends Activity implements View.OnClickListener {
         public void onClick(View v) {
             pager.setCurrentItem(position);
         }
+    }
+
+    private void initNetMusicPager(){
+
+        LayoutInflater mInflater = getLayoutInflater();
+        netnusic_pager_recommend = (LinearLayout) mInflater.inflate(R.layout.netnusic_pager_recommend,null);
+        netnusic_pager_radiostation = (LinearLayout) mInflater.inflate(R.layout.netnusic_pager_radiostation,null);
+        netnusic_pager_songsheeet = (LinearLayout) mInflater.inflate(R.layout.netnusic_pager_songsheeet,null);
+        netnusic_pager_top = (LinearLayout) mInflater.inflate(R.layout.netnusic_pager_top,null);
+        netMusicPageres = new ArrayList<LinearLayout>();
+        netMusicRadios = new ArrayList<RadioButton>();
+        netMusicPageres.add(netnusic_pager_recommend);
+        netMusicPageres.add(netnusic_pager_radiostation);
+        netMusicPageres.add(netnusic_pager_songsheeet);
+        netMusicPageres.add(netnusic_pager_top);
+        netMusicRadios.add(rdRecommend);
+        netMusicRadios.add(rdSongSheet);
+        netMusicRadios.add(rdRadioStation);
+        netMusicRadios.add(rdTop);
+        netMusicPager.setCurrentItem(0);
+        NetMusicPagerAdapters netMusicPagerAdapter= new NetMusicPagerAdapters(netMusicPageres);
+        netMusicPager.setAdapter(netMusicPagerAdapter);
+
+
+
+
     }
 
     /**

@@ -26,14 +26,15 @@
             android:text="歌单"
             style="@style/RadioButtonStyleNullText"
             />
+
         <RadioButton
             android:id="@+id/rdRadioStation"
-            android:layout_width="0dp"
-            android:layout_weight="1"
-            android:layout_height="match_parent"
-            android:text="主播电台"
             style="@style/RadioButtonStyleNullText"
-            />
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="主播电台" />
+
         <RadioButton
             android:id="@+id/rdTOP"
             android:layout_width="0dp"
@@ -43,8 +44,14 @@
             style="@style/RadioButtonStyleNullText"
             />
     </RadioGroup>
-
     </RelativeLayout>
+    <android.support.v4.view.ViewPager
+        android:id="@+id/netmusic_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    </android.support.v4.view.ViewPager>
 
 
 
